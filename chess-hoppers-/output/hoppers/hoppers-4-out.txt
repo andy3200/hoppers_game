@@ -1,0 +1,42 @@
+File: data/hoppers/hoppers-4.txt
+. * . * .
+* G * . *
+. * R * .
+* G * G *
+G * . * .
+Total configs: 11
+Unique configs: 10
+Step 0:
+. * . * .
+* G * . *
+. * R * .
+* G * G *
+G * . * .
+
+Step 1:
+. * . * .
+* G * . *
+. * . * .
+* G * . *
+G * . * R
+
+Step 2:
+. * . * .
+* G * . *
+. * G * .
+* . * . *
+. * . * R
+
+Step 3:
+. * . * .
+* . * . *
+. * . * .
+* . * G *
+. * . * R
+
+Step 4:
+. * . * .
+* . * . *
+. * R * .
+* . * . *
+. * . * .

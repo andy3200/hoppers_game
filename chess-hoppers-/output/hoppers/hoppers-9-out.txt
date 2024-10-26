@@ -1,0 +1,13 @@
+File: data/hoppers/hoppers-9.txt
+G * G * G * G * .
+* G * G * . * . *
+G * G * . * . * .
+* G * . * . * . *
+G * . * . * . * .
+* . * . * . * . *
+G * . * . * . * .
+* . * . * . * . *
+. * . * . * . * R
+Total configs: 15460
+Unique configs: 5877
+No solution

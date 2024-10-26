@@ -1,0 +1,15 @@
+File: data/hoppers/hoppers-2.txt
+R * .
+* G *
+. * .
+Total configs: 2
+Unique configs: 2
+Step 0:
+R * .
+* G *
+. * .
+
+Step 1:
+. * .
+* . *
+. * R
